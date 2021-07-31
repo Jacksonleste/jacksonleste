@@ -1,5 +1,5 @@
 ## <img src="https://emoji.gg/assets/emoji/8214-blurplewave.gif" width="40"> Olá, eu sou o Jackson Leste
-### Bem-vindo(a) ao meu perfil
+### <img src="https://emoji.gg/assets/emoji/4746-rick-cool-smug.png" width="40"> Bem-vindo(a) ao meu perfil
 ##
 ## <img src="https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif" width="40"> Sobre mim
 - 💻 Estudando para ser um desevolvedor web full-stack
