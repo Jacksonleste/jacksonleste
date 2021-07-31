@@ -1,7 +1,9 @@
-## 👋 Olá, eu sou o Jackson Leste
+## <img src="https://emoji.gg/assets/emoji/8214-blurplewave.gif" width="40"> Olá, eu sou o Jackson Leste
 ### Bem-vindo(a) ao meu perfil
-
-- 🌱 Estudando HTML, CSS & JavaScript
+##
+## <img src="https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif" width="40"> Sobre mim
+- 💻 Estudando para ser um desevolvedor web full-stack
+- 🧠 Estudando HTML, CSS & JavaScript
 - 📫 Contacte-me no Email: jacksongncalves.leste@gmail.com
 ##
 <div>
@@ -9,6 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jacksonleste&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonleste&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+  
+##
+## Tecnologias
 <div style="display: inline_block";><br>
   <img align="center" alt="Jackson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jackson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,13 +23,14 @@
 </div>
   
 ##
+## <img src="https://img-premium.flaticon.com/png/512/2482/premium/2482945.png?token=exp=1627701065~hmac=4d12e953d88cd97f3f766c5fa06f09b6" width="30">Contatos
+
+<div> 
+  <a href="https://instagram.com/jackson_leste" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5561999057923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Jackson-Whatsapp"></a>
+  <a href = "mailto:jacksongoncalves.leste@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <div style="display: inline_block";> 
-    <a href="https://www.instagram.com/jackson_leste/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Jackson-Instagram"></a>
-    <a href="https://api.whatsapp.com/send?phone=5561999057923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Jackson-Whatsapp"></a>
-    <a href="https://www.linkedin.com/in/jackson-leste-2765841bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jackson-Linkedin"></a>
-    <a href="mailto:jacksongoncalves.leste@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jackson-Email"></a>
-    
-    ![Snake animation](https://github.com/jacksonleste/jacksonleste/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+  ![Snake animation](https://github.com/Jacksonleste/jacksonleste/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
