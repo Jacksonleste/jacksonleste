@@ -4,7 +4,7 @@
 ## <img src="https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif" width="40"> Sobre mim
 - 💻 Estudando para ser um desevolvedor web full-stack
 - 🧠 Estudando HTML, CSS & JavaScript
-- 📫 Contacte-me no Email: jacksongncalves.leste@gmail.com
+- 📫 Contacte-me no Email: jacksongoncalves.leste@gmail.com
 ##
 <div>
   <a href="https://github.com/jacksonleste">
