@@ -1,4 +1,4 @@
-## <img src="https://emoji.gg/assets/emoji/8214-blurplewave.gif" width="40"> Olá, eu sou o Jackson Leste
+## <img src="https://emoji.gg/assets/emoji/8214-blurplewave.gif" width="40"> Olá, eu sou Jackson Leste
 ### <img src="https://emoji.gg/assets/emoji/4746-rick-cool-smug.png" width="40"> Bem-vindo(a) ao meu perfil
 ##
 ## <img src="https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif" width="40"> Sobre mim
@@ -18,7 +18,7 @@
   <img align="center" alt="Jackson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jackson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jackson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img width="300" align="right" alt="groug" src="https://media.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif">
+  <img width="300" align="right" alt="groug" src="https://media.giphy.com/media/mD5SAK2BV0aTFIZdeO/giphy.gif">
 </div>
   
 ##
